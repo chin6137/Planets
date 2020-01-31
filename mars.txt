@@ -1,2 +1,4 @@
 
 The two moons  Fav color
+ I AM adding a new line
+WE are learning git
